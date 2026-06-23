@@ -4,7 +4,7 @@
 Dashboard de Machine Learning para la predicción de presencia/ausencia de enfermedad
 cardíaca, desarrollado para la **Práctica Calificada 2 — Agentes Inteligentes (USIL, 2026-1)**.
 
-🔗 **App:** 
+🔗 **App: <https://heart-disease-dashboard-proyect.streamlit.app/>**
 
 ## Descripción
 
@@ -59,5 +59,7 @@ streamlit run app.py
 ```
 
 ## Despliegue
+<https://heart-disease-dashboard-proyect.streamlit.app/>
+
 
 Desplegado en [Streamlit Community Cloud]().
